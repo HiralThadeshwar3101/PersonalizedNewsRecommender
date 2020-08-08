@@ -1,0 +1,36 @@
+body
+{
+background:url(../images/news_background.jpg);
+
+}
+.title
+{
+	font-family: 'Roboto',sans-serif;
+	font-size: 38px;
+	line-height: 44px;
+	letter-spacing: -0.5px;
+	margin-bottom: 10px;
+	/*color: #999;*/
+	color: #333;
+}
+.pic_details
+{
+font-family: 'Roboto',sans-serif;
+line-height: 30px;
+color: #999;
+}
+.title_description
+{
+width: 100%;
+font-size: 16px;
+line-height: 24px;
+color: #333;
+padding-top: 10px;
+}
+.author_publish
+{
+font-size: 14px;
+color: #003165;
+font-weight:bold;
+font-family: 'Roboto Condensed', sans-serif;
+}
